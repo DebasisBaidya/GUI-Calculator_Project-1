@@ -38,9 +38,11 @@ The `on_button_click()` function is what makes the buttons work, updating the di
 
 ## 📸 App Preview
 
-> *(Screenshot of the App`)*  
-Example:  
-![App Screenshot](app_preview.png)
+<p align="center">
+  <img src="assets/app_preview.png" alt="App Screenshot" width="500"/>
+</p>
+
+> Screenshot of the GUI Calculator built with Tkinter.
 
 ---
 
@@ -66,7 +68,7 @@ Example:
 
 ## 🚀 How to Use It
 
-1. Run `python calculator.py` 
+1. Run `GUI Calculator.py` 
 2. Click on any button (numbers, operations, functions)  
 3. View real-time output on the display  
 4. Press `=` to see the final result  
