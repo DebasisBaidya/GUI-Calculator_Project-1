@@ -72,7 +72,7 @@ The `on_button_click()` function is what makes the buttons work, updating the di
 2. Click on any button (numbers, operations, functions)  
 3. View real-time output on the display  
 4. Press `=` to see the final result  
-5. Use `C` or `AC` to clear the input anytime
+5. Use `C` to clear the input anytime
 
 ---
 
