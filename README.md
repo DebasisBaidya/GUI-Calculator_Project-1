@@ -38,8 +38,10 @@ The `on_button_click()` function is what makes the buttons work, updating the di
 
 ## 📸 App Preview
 
+## 📸 App Preview
+
 <p align="center">
-  <img src="app_preview.png" alt="App Screenshot" width="500"/>
+  <img src="app_preview.png" alt="App Screenshot" width="350"/>
 </p>
 
 > Screenshot of the GUI Calculator built with Tkinter.
