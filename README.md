@@ -1,11 +1,13 @@
 # 🧮 GUI Calculator using Tkinter
 
+<p align="center">
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/)
 [![Tkinter](https://img.shields.io/badge/GUI-Tkinter-orange.svg)](https://docs.python.org/3/library/tkinter.html)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debasisbaidya)
 [![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-red?logo=gmail&logoColor=white)](mailto:speak2debasis@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=918013316086&text=Hi%20Debasis!)
+</p>
 
 ---
 
